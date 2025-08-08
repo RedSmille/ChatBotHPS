@@ -2243,9 +2243,9 @@
         {
             "tag": "insabi",
             "preguntas": [
-                "insa", "insabi", "insavi", "sabi", "savi",
+                "insa", "insabi", "insavi", "insabis", "insavis", "sabi", "savi",
                 "bienestar", "vienestar", "instituto de salud para el bienestar", "instituto de salud para el vienestar", "instituto salud para bienestar",
-                "instituto salud para vienestar", "seguro", "popular", "seguro popular", "7104", "104",
+                "instituto salud para vienestar", "seguro", "ceguro", "popular", "7104", "104",
 
                 "rodriguez",
                 "rodrigues",
@@ -3046,7 +3046,9 @@
                 "informes", "recepcion", "resepcion", "recepciones", "resepciones",
                 "recepcionista", "resepcionista", "recepcionistas", "resepcionistas", "recepsion",
                 "resepsion", "recepsiones", "resepsiones", "recepsionista", "resepsionista",
-                "recepsionistas", "resepsionistas", "informes planta baja", "7049", "049", "49"
+                "recepsionistas", "resepsionistas", "informes planta baja", "hospi", "ospi",
+                "hospital", "hospitales", "ospital", "ospitales", "seguros", "ceguros", 
+                "7049", "049", "49"
             ],
             "respuestas": [
                 "Ofrece orientación general a usuarios y visitantes, resolviendo dudas sobre ubicaciones, trámites, servicios y canalizando a las áreas correspondientes desde la entrada principal del hospital."
